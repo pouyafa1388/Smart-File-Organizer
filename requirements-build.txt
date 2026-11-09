@@ -1,0 +1,3 @@
+Build dependency
+
+pyinstaller>=6.0
